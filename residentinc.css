@@ -1,0 +1,13 @@
+#meatleft{
+	float:left;
+	margin-top:20px;
+	margin-left:45px;
+	padding:10px;
+	width:400px;
+}
+#meatright
+{
+	float:right;
+	width:500px;
+	height:500px;
+}

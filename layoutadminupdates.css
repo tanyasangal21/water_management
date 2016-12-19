@@ -1,0 +1,16 @@
+.styletextlongboxsignup {
+	width:auto;
+    padding: 1px 20px;
+    border: 0;
+    height: 35px;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    box-shadow: 1px 1px 0 0 #FFF, 5px 5px 40px 2px #BBB inset;
+    -moz-box-shadow: 1px 1px 0 0 #FFF, 5px 5px 40px 2px #BBB inset;
+    -webkit-box-shadow: 1px 1px 0 0 #FFF, 5px 5px 40px 2px #BBB inset;
+    -webkit-background-clip: padding-box;
+	font-size:18px;
+    outline: 0;
+	color:black;
+}

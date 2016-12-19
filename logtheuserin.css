@@ -1,0 +1,36 @@
+#contentleft
+{
+	
+	float:left;
+	border:2px solid black;
+	width:400px;
+	height:500px;
+	margin-top:15px;
+	margin-left:35px;
+	
+}
+#userinfo
+{
+	
+	height:auto;
+	padding:5px;
+	
+}
+#contentright
+{
+	width:450px;
+	float:right;
+	border:2px solid black;
+}
+#bill{
+ border:1px solid black;
+ width: 100%;
+}
+#bill td, #bill th {
+    border: 1px solid #CCC;
+    text-align: center;
+    padding: 4px;
+}
+#bill tr:nth-child(even){background-color: #BBB}
+
+#bill tr:hover {background-color:#00F;}
